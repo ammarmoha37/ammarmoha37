@@ -7,7 +7,7 @@ I'm a Computer Engineering Student at my thrid year in Karabuk University
 I have a passion in programming and enjoy the journey of learning it...
 
 
-- 🔭 I’m currently learning <img align="right" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+- 🔭 I’m currently learning <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
 
 
 ## 📫 Get in touch: 
