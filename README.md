@@ -37,8 +37,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammarmoha37&show_icons=true&locale=en&layout=compact&theme=dark" alt="ammarmoha37" width="360"/>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarmoha37&theme=dark&border=none" alt="ammarmoha37" width="500" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammarmoha37&show_icons=true&locale=en&layout=compact&theme=dark" alt="ammarmoha37" width="300"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarmoha37&theme=dark&border=none" alt="ammarmoha37" width="420" />
 </div>
 
 
