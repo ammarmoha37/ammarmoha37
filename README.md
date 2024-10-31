@@ -7,7 +7,7 @@
 </h3>
 
 <div>
-   <img align="right" width="350" src="https://i.pinimg.com/originals/ee/8f/1c/ee8f1cba0f0dfb4bb55c88b7bdec9703.gif">
+   <img align="right" width="400" src="https://i.pinimg.com/originals/ee/8f/1c/ee8f1cba0f0dfb4bb55c88b7bdec9703.gif">
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="BootStrap" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/><br> 
   <img src="https://img.icons8.com/?size=100&id=13664&format=png&color=000000" alt="wordpress" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
